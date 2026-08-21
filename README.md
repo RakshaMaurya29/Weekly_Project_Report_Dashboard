@@ -117,7 +117,7 @@ This dashboard automates reporting and provides a centralized view of project pe
 
 ## Dashboard Screenshot
 
-![Weekly Project Report Dashboard](Weekly_Project_Report_Dashboard.png)
+![Weekly_Report](Weekly_Report.png)
 
 ---
 
